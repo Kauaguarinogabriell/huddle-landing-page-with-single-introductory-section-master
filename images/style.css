@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+html, body{
+    min-height: 100vh;
+    margin: 0;
+    background: hsl(257, 40%, 49%);
+    background-image: url(bg-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-sizing: border-box;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 2rem 3rem;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    gap: 3rem;
+    padding: 1rem 0rem;
+}
+
+main > img{
+    width: 50%;
+    margin-top: 1rem;
+}
+
+.texts > h1{
+    font-size: 2.5rem;
+    max-width: 20ch;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.texts:not(a){
+    color: #FFFFFF;
+}
+
+.texts > a{
+    text-decoration: none;
+    padding: .8rem 3rem;
+    background: #FFFFFF;
+    border-radius: 50px;
+    color: hsl(257, 40%, 49%);
+}
+
+.texts > p{
+    max-width: 53ch;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 2rem;
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+
+header > img{
+    width: 20%;
+}
+
+footer{
+    display: flex;
+    gap: 1rem;
+    justify-content: right;
+    align-items: center;
+}
+footer > img{
+    display: flex;
+    width: 1.1rem;    
+    height: 1.1rem;
+    padding: .3rem;
+    border-radius: 100%;
+    outline: 1px #FFFFFF solid;
+}
+
+@media (max-width: 1024px){
+    body{
+        background: url(bg-mobile.svg);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    section, main, body{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    header > img{
+        width: 35%;
+    }
+
+    main > img{
+        margin: 0 auto;
+        width: 100%;
+    }
+    .texts{
+        margin: 0 auto;
+    }
+
+    footer{
+        margin-top: 3rem;
+        justify-content: center;
+    }
+
+    .texts > a{
+        padding: .8rem 4rem;
+    }
+}
