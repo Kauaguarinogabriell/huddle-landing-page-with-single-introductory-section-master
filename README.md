@@ -4,18 +4,6 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 Mobile 375px<br>
 ![huddle375px](https://github.com/Kauaguarinogabriell/huddle-landing-page-with-single-introductory-section-master/assets/111528352/5fb7e09a-ff72-4bfb-aab1-f212f0796665)
 
