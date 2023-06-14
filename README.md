@@ -13,7 +13,6 @@ Tablet 768px
 Desktop 1024px
 ![huddle1024px](https://github.com/Kauaguarinogabriell/huddle-landing-page-with-single-introductory-section-master/assets/111528352/443ad128-883c-4e2d-9182-f1adbab3e53a)
 
-
-
+Link pagina online: https://kauaguarinogabriell.github.io/huddle-landing-page-with-single-introductory-section-master/
 
 
