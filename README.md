@@ -5,13 +5,16 @@ This is a solution to the [Huddle landing page with single introductory section 
 ## Table of contents
 
 Mobile 375px<br>
-![huddle375px](https://github.com/Kauaguarinogabriell/huddle-landing-page-with-single-introductory-section-master/assets/111528352/5fb7e09a-ff72-4bfb-aab1-f212f0796665)
+![huddle375px](https://github.com/Kauaguarinogabriell/huddle-landing-page-with-single-introductory-section-master/assets/111528352/053c94d8-5cc6-40fe-8906-99ca9c5c0196)
+
 
 Tablet 768px
-![huddle768px](https://github.com/Kauaguarinogabriell/huddle-landing-page-with-single-introductory-section-master/assets/111528352/f32d199f-15db-4e73-aa01-5a084d209341)
+![huddle768px](https://github.com/Kauaguarinogabriell/huddle-landing-page-with-single-introductory-section-master/assets/111528352/f55eeee3-2e09-4f95-8b01-9a7c69a12697)
+
 
 Desktop 1024px
-![huddle1024px](https://github.com/Kauaguarinogabriell/huddle-landing-page-with-single-introductory-section-master/assets/111528352/443ad128-883c-4e2d-9182-f1adbab3e53a)
+![huddle1024px](https://github.com/Kauaguarinogabriell/huddle-landing-page-with-single-introductory-section-master/assets/111528352/3dfb4f16-580a-4660-923a-49ae62fa5281)
+
 
 Link pagina online: https://kauaguarinogabriell.github.io/huddle-landing-page-with-single-introductory-section-master/
 
